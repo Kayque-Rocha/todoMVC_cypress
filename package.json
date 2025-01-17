@@ -1,0 +1,10 @@
+{
+  "name": "Bootcamp-TodoMVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kayque Rocha",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
