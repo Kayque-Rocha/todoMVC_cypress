@@ -1,7 +1,7 @@
 # todoMVC_cypress
 Automação Web realizada no site todo MVC  utilizando o framework Cypress
 
-## Tecnologias utilizadas
+## Tecnologia utilizada
 Cypress v13.16.1
 
 ## Link do site testado
