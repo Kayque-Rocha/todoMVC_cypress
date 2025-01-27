@@ -24,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm install  # Instala todas as dependências do seu projeto
+          npm install mochawesome --save-dev  # Garante que o mochawesome seja instalado
 
       - name: Run Cypress tests
         run: |
